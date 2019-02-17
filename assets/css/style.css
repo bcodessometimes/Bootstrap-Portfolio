@@ -62,7 +62,7 @@ h1 {
 	text-decoration: none;
 	background: #4aaaa5;
 } */
-
+/* /HEADER/ */
 nav a {
 	margin-left: 15px;
 	line-height: 18px;
@@ -89,6 +89,10 @@ nav a:first-child {
     text-align: center;
 }
 /* portfolio page */
+
+h3 {
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
 
 .work {
 	position: relative;
@@ -129,6 +133,8 @@ nav a:first-child {
 	margin-top: 10px;
 	margin-right: 25px;
 }
+#main-container {
+	height: 1100px;
 
 /* contact page */
 
